@@ -1,6 +1,5 @@
 <?php
 
-echo "hello, world!";
-echo "hoge";
+echo "hello, ayumi!";
 
 ?>
